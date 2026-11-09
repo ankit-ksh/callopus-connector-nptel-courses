@@ -1,0 +1,21 @@
+{
+  "name": "callopus-connector-nptel-courses",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "callopus-connector build",
+    "check": "callopus-connector check",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@callopus/connector-sdk": "link:../../packages/connector-sdk",
+    "@callopus/course-model": "link:../../packages/course-model"
+  },
+  "devDependencies": {
+    "@types/node": "~22.20.2",
+    "typescript": "~6.0.3",
+    "vitest": "^5.0.2"
+  }
+}

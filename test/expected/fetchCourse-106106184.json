@@ -1,0 +1,5194 @@
+{
+  "id": "nptelcourses_106106184",
+  "title": "Deep Learning - IIT Ropar",
+  "category": "IIT Ropar",
+  "sections": [
+    {
+      "id": "1",
+      "title": "Week 1",
+      "lessons": [
+        {
+          "id": "1",
+          "title": "Biological Neuron",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "4TC5s_xNKSs",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1TJxYtBhiHpLbKUUHxBjQMYoAY9QCBndy?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=4TC5s_xNKSs",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=4TC5s_xNKSs",
+              "href": "https://www.youtube.com/watch?v=4TC5s_xNKSs"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "From Spring to Winter of AI",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "WpR8eOLUo9Q",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1r7C_h3epzihI2LIdYL2ATX5dvGmzRHy2?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=WpR8eOLUo9Q",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=WpR8eOLUo9Q",
+              "href": "https://www.youtube.com/watch?v=WpR8eOLUo9Q"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "The Deep Revival",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "DpK_i6iA0i0",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/16iT3pZ1JliTSWy7GhlhMwDrRakNtFsXh?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=DpK_i6iA0i0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=DpK_i6iA0i0",
+              "href": "https://www.youtube.com/watch?v=DpK_i6iA0i0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "title": "From Cats to Convolutional Neural Networks",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "6USgwLa-7ks",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1BjQEkUB8zdokTqdDEAMdspP7HeTW-xu4?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=6USgwLa-7ks",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=6USgwLa-7ks",
+              "href": "https://www.youtube.com/watch?v=6USgwLa-7ks"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Faster, higher, stronger",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "0DKOUFrP7xI",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1f0ApUKI_ZIS6cC9VAxq8V69mrah4ePD7?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=0DKOUFrP7xI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=0DKOUFrP7xI",
+              "href": "https://www.youtube.com/watch?v=0DKOUFrP7xI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "The Curious Case of Sequences",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "H_ptjlq8pH0",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1kSrWUj_5bN0ZzuKspjxHMgqsAg9OebZu?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=H_ptjlq8pH0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=H_ptjlq8pH0",
+              "href": "https://www.youtube.com/watch?v=H_ptjlq8pH0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Beating humans at their own games (literally)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "_z27qjHjqiM",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1DcuUPPkOOWLZOqCj6WgHo-xBh9qJoKb2?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=_z27qjHjqiM",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=_z27qjHjqiM",
+              "href": "https://www.youtube.com/watch?v=_z27qjHjqiM"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "title": "The Madness (2013-)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "-7l-Pl_pwu4",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1r8SiM9mEcTkFyEBGNwDHEbfP8D2a1NAq?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=-7l-Pl_pwu4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=-7l-Pl_pwu4",
+              "href": "https://www.youtube.com/watch?v=-7l-Pl_pwu4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "title": "(Need for) Sanity",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "rSY5YLLcPs8",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1sgCh-CdHGwQb0lKoc7eDAjWuU83UX1vn?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=rSY5YLLcPs8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=rSY5YLLcPs8",
+              "href": "https://www.youtube.com/watch?v=rSY5YLLcPs8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "title": "Motivation from Biological Neurons",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "qQmMp8fL82w",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1Fb_rOBW06o6_ACbi0OJ2W7QwDg_97jIl?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=qQmMp8fL82w",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=qQmMp8fL82w",
+              "href": "https://www.youtube.com/watch?v=qQmMp8fL82w"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "title": "McCulloch Pitts Neuron, Thresholding Logic",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "6XhSJbfT1pk",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/17ZV66ixBgb2FImlGIRYn2tAUFduOqkEP?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=6XhSJbfT1pk",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=6XhSJbfT1pk",
+              "href": "https://www.youtube.com/watch?v=6XhSJbfT1pk"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "title": "Perceptrons",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "XKnBn1XZpQI",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1u1TXb3t-d6FKNy1wC7gflSB3QsRLPnSZ?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=XKnBn1XZpQI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=XKnBn1XZpQI",
+              "href": "https://www.youtube.com/watch?v=XKnBn1XZpQI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "title": "Error and Error Surfaces",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "f8tod7wt2Vw",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/14nX8dWaD2qmYpGKzAuf_Dbp_zD64smU3?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=f8tod7wt2Vw",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=f8tod7wt2Vw",
+              "href": "https://www.youtube.com/watch?v=f8tod7wt2Vw"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "title": "Perceptron Learning Algorithm",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "VRcixOuG-TU",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1h0gjGb5u4EmodHvbIVHvPAS0Nk-7YWVY?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=VRcixOuG-TU",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=VRcixOuG-TU",
+              "href": "https://www.youtube.com/watch?v=VRcixOuG-TU"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "title": "Proof of Convergence of Perceptron Learning Algorithm",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "vAOI9kTDVoo",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1ANbLUOlUVn97ZNoSUHScv_honWlldQRw?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=vAOI9kTDVoo",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=vAOI9kTDVoo",
+              "href": "https://www.youtube.com/watch?v=vAOI9kTDVoo"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 1"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "(Partial) History of Deep Learning, Deep Learning Success Stories, McCulloch Pitts Neuron, Thresholding Logic, Perceptrons, Perceptron Learning Algorithm"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Week 2",
+      "lessons": [
+        {
+          "id": "16",
+          "title": "Linearly Separable Boolean Functions",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "AjUgxQNZhck",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/18G-uh8FUCVO6QS01ielY9VFYKV6nO6mC?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=AjUgxQNZhck",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=AjUgxQNZhck",
+              "href": "https://www.youtube.com/watch?v=AjUgxQNZhck"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "title": "Representation Power of a Network of Perceptrons",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "CJr4Dst0uZE",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1os8TINPAux2WXtmgh3zdZc7to__hgQky?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=CJr4Dst0uZE",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=CJr4Dst0uZE",
+              "href": "https://www.youtube.com/watch?v=CJr4Dst0uZE"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "title": "Sigmoid Neuron",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "X4RmokyD3U8",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1iRDxwG4qhO9HjI0vVaZJD05gqN4TyaNT?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=X4RmokyD3U8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=X4RmokyD3U8",
+              "href": "https://www.youtube.com/watch?v=X4RmokyD3U8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "title": "A typical Supervised Machine Learning Setup",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "uDcU3ZzH7hs",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1AJNw_lRi1orcFVHJ7g8KenflAEY-c7uA?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=uDcU3ZzH7hs",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=uDcU3ZzH7hs",
+              "href": "https://www.youtube.com/watch?v=uDcU3ZzH7hs"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "title": "Learning Parameters: (Infeasible) guess work",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "HnaBcIL2shc",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1gzIPZ-a7J70-Paxvwb5jtz_ON3i-tBXM?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=HnaBcIL2shc",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=HnaBcIL2shc",
+              "href": "https://www.youtube.com/watch?v=HnaBcIL2shc"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "title": "Learning Parameters: Gradient Descent",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "giZD8yzXEZ4",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1oIqqfWGt6KaMa55q2c40ZghUVEKiCTHa?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=giZD8yzXEZ4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=giZD8yzXEZ4",
+              "href": "https://www.youtube.com/watch?v=giZD8yzXEZ4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "title": "Representation Power of Multilayer Network of Sigmoid Neurons",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "d1K-6b5guh0",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1yEN7I-E2sCheJeynJR-MfB8j1OgKwM1r?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=d1K-6b5guh0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=d1K-6b5guh0",
+              "href": "https://www.youtube.com/watch?v=d1K-6b5guh0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 2"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Multilayer Perceptrons (MLPs), Representation Power of MLPs, Sigmoid Neurons, Gradient Descent, Feedforward Neural Networks, Representation Power of Feedforward Neural Networks"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Week 3",
+      "lessons": [
+        {
+          "id": "23",
+          "title": "Feedforward Neural Networks (a.k.a multilayered network of neurons)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "AASR9rOzhhA",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/13QMSpo0_eapsLqyorWCvGyiamCuc6Nnx?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=AASR9rOzhhA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=AASR9rOzhhA",
+              "href": "https://www.youtube.com/watch?v=AASR9rOzhhA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "title": "Learning Paramters of Feedforward Neural Networks (Intuition)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "4gm4sXPndUY",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1PjX0Hs0f2gRqS0Zk1TyyhCJrIb3f8f8d?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=4gm4sXPndUY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=4gm4sXPndUY",
+              "href": "https://www.youtube.com/watch?v=4gm4sXPndUY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "title": "Output functions and Loss functions",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "hMkRDNzH9vs",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/199c3cBYEkFf3BGQV4TKE2tIkd40tTP58?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=hMkRDNzH9vs",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=hMkRDNzH9vs",
+              "href": "https://www.youtube.com/watch?v=hMkRDNzH9vs"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "title": "Backpropagation (Intuition)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "DSqgn2lAN1M",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1OWiYDxLKBqkdM5H1CvVmclpJz_2vyXNZ?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=DSqgn2lAN1M",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=DSqgn2lAN1M",
+              "href": "https://www.youtube.com/watch?v=DSqgn2lAN1M"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "title": "Backpropagation: Computing Gradients w.r.t. the Output Units",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "JSfRBOWp3Es",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1o18oIAzXU7MZiNF5OvFDJMmslL8OY1U-?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=JSfRBOWp3Es",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=JSfRBOWp3Es",
+              "href": "https://www.youtube.com/watch?v=JSfRBOWp3Es"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "title": "Backpropagation: Computing Gradients w.r.t. Hidden Units",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "MDVVUY-sftQ",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1i668RxMIAg5jdJrP11lVlk1FLkYJmGvO?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=MDVVUY-sftQ",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=MDVVUY-sftQ",
+              "href": "https://www.youtube.com/watch?v=MDVVUY-sftQ"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "title": "Backpropagation: Computing Gradients w.r.t. Parameters",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "DirgOcmERwA",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1TolSnOVJ0oEv5VbPo3Xx6R6dLWVNVH8J?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=DirgOcmERwA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=DirgOcmERwA",
+              "href": "https://www.youtube.com/watch?v=DirgOcmERwA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "title": "Backpropagation: Pseudo code",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "Qdh4NEkQRuo",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/11ZRHT-PG5WlFCRA1ixp3tsbBLiF09RmM?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=Qdh4NEkQRuo",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=Qdh4NEkQRuo",
+              "href": "https://www.youtube.com/watch?v=Qdh4NEkQRuo"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "title": "Derivative of the activation function",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "0OHLbVEOq04",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1MvWFUrVXOUJGNqKlKZcscu7SBmngV0TT?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=0OHLbVEOq04",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=0OHLbVEOq04",
+              "href": "https://www.youtube.com/watch?v=0OHLbVEOq04"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "title": "Information content, Entropy & cross entropy",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "sbvv-uQmwVY",
+            "transcripts": [
+              {
+                "lang": "eng",
+                "url": "https://www.googleapis.com/drive/v3/files/1b4jeDTJJY_XMkSebHnHIi2SS4pmSCB57?key=AIzaSyDDV8J9hwrVdy4pYrXcmSGtgRXD9lc_QWY&alt=media"
+              }
+            ]
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=sbvv-uQmwVY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=sbvv-uQmwVY",
+              "href": "https://www.youtube.com/watch?v=sbvv-uQmwVY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 3"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "FeedForward Neural Networks, Backpropagation"
+            },
+            {
+              "label": "Transcripts Available",
+              "value": "English"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "week 4",
+      "lessons": [
+        {
+          "id": "33",
+          "title": "Recap: Learning Parameters: Guess Work, Gradient Descent",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "joKs2EJ9Z8w"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=joKs2EJ9Z8w",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=joKs2EJ9Z8w",
+              "href": "https://www.youtube.com/watch?v=joKs2EJ9Z8w"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "title": "Contours Maps",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "pHarJN7Wo0M"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=pHarJN7Wo0M",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=pHarJN7Wo0M",
+              "href": "https://www.youtube.com/watch?v=pHarJN7Wo0M"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "title": "Momentum based Gradient Descent",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "ewN0vFYFJ7A"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=ewN0vFYFJ7A",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=ewN0vFYFJ7A",
+              "href": "https://www.youtube.com/watch?v=ewN0vFYFJ7A"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "title": "Nesterov Accelerated Gradient Descent",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "sV9aiEsXanE"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=sV9aiEsXanE",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=sV9aiEsXanE",
+              "href": "https://www.youtube.com/watch?v=sV9aiEsXanE"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "title": "Stochastic And Mini-Batch Gradient Descent",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "Vc-jG_LdOLw"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=Vc-jG_LdOLw",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=Vc-jG_LdOLw",
+              "href": "https://www.youtube.com/watch?v=Vc-jG_LdOLw"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "title": "Tips for Adjusting Learning Rate and Momentum",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "t5Q2z-MM1X4"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=t5Q2z-MM1X4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=t5Q2z-MM1X4",
+              "href": "https://www.youtube.com/watch?v=t5Q2z-MM1X4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "title": "Line Search",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "CxgYyBut6i0"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=CxgYyBut6i0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=CxgYyBut6i0",
+              "href": "https://www.youtube.com/watch?v=CxgYyBut6i0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "title": "Gradient Descent with Adaptive Learning Rate",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "FKCV76N9Ys0"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=FKCV76N9Ys0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=FKCV76N9Ys0",
+              "href": "https://www.youtube.com/watch?v=FKCV76N9Ys0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "title": "Bias Correction in Adam",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "-0ZMU-gnm2g"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=-0ZMU-gnm2g",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=-0ZMU-gnm2g",
+              "href": "https://www.youtube.com/watch?v=-0ZMU-gnm2g"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 4"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Gradient Descent (GD), Momentum Based GD, Nesterov Accelerated GD, Stochastic GD, AdaGrad, RMSProp, Adam, Eigenvalues and eigenvectors, Eigenvalue Decomposition, Basis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Week 5",
+      "lessons": [
+        {
+          "id": "42",
+          "title": "Eigenvalues and Eigenvectors",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "BTzz3BuYuM8"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=BTzz3BuYuM8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=BTzz3BuYuM8",
+              "href": "https://www.youtube.com/watch?v=BTzz3BuYuM8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "title": "Linear Algebra : Basic Definitions",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "FsWX2c7Q6Qg"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=FsWX2c7Q6Qg",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=FsWX2c7Q6Qg",
+              "href": "https://www.youtube.com/watch?v=FsWX2c7Q6Qg"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "title": "Eigenvalue Decompositon",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "mdZVysybPrk"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=mdZVysybPrk",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=mdZVysybPrk",
+              "href": "https://www.youtube.com/watch?v=mdZVysybPrk"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "title": "Principal Component Analysis and its Interpretations",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "5eEPs8XS5AQ"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=5eEPs8XS5AQ",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=5eEPs8XS5AQ",
+              "href": "https://www.youtube.com/watch?v=5eEPs8XS5AQ"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "title": "PCA : Interpretation 2",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "_EwqeZcZ9KY"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=_EwqeZcZ9KY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=_EwqeZcZ9KY",
+              "href": "https://www.youtube.com/watch?v=_EwqeZcZ9KY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "title": "PCA : Interpretation 3",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "mvljKZtGTj4"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=mvljKZtGTj4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=mvljKZtGTj4",
+              "href": "https://www.youtube.com/watch?v=mvljKZtGTj4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "title": "PCA : Interpretation 3 (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "tcR5I2pPk3o"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=tcR5I2pPk3o",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=tcR5I2pPk3o",
+              "href": "https://www.youtube.com/watch?v=tcR5I2pPk3o"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "title": "PCA : Practical Example",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "wHHxkWcqokY"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=wHHxkWcqokY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=wHHxkWcqokY",
+              "href": "https://www.youtube.com/watch?v=wHHxkWcqokY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "title": "Singular Value Decomposition",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "xV1Q3go0S1Y"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=xV1Q3go0S1Y",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=xV1Q3go0S1Y",
+              "href": "https://www.youtube.com/watch?v=xV1Q3go0S1Y"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 5"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Principal Component Analysis and its interpretations, Singular Value Decomposition"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Week 6",
+      "lessons": [
+        {
+          "id": "51",
+          "title": "Introduction to Autoncoders",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "wPz3MPl5jvY"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=wPz3MPl5jvY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=wPz3MPl5jvY",
+              "href": "https://www.youtube.com/watch?v=wPz3MPl5jvY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "title": "Link between PCA and Autoencoders",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "0ZQxPIwuA4o"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=0ZQxPIwuA4o",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=0ZQxPIwuA4o",
+              "href": "https://www.youtube.com/watch?v=0ZQxPIwuA4o"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "title": "Regularization in autoencoders (Motivation)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "mNUAt7umSiw"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=mNUAt7umSiw",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=mNUAt7umSiw",
+              "href": "https://www.youtube.com/watch?v=mNUAt7umSiw"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "title": "Denoising Autoencoders",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "0n2x_D-ZmmU"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=0n2x_D-ZmmU",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=0n2x_D-ZmmU",
+              "href": "https://www.youtube.com/watch?v=0n2x_D-ZmmU"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "title": "Sparse Autoencoders",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "REzrCEDMQws"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=REzrCEDMQws",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=REzrCEDMQws",
+              "href": "https://www.youtube.com/watch?v=REzrCEDMQws"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        },
+        {
+          "id": "56",
+          "title": "Contractive Autoencoders",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "BW7P1fvnAWk"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=BW7P1fvnAWk",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=BW7P1fvnAWk",
+              "href": "https://www.youtube.com/watch?v=BW7P1fvnAWk"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 6"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Autoencoders and relation to PCA, Regularization in autoencoders, Denoising autoencoders, Sparse autoencoders, Contractive autoencoders"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Week 7",
+      "lessons": [
+        {
+          "id": "57",
+          "title": "Bias and Variance",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "Y0m136XU65o"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=Y0m136XU65o",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=Y0m136XU65o",
+              "href": "https://www.youtube.com/watch?v=Y0m136XU65o"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "title": "Train error vs Test error",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "gyGMaNUaeic"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=gyGMaNUaeic",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=gyGMaNUaeic",
+              "href": "https://www.youtube.com/watch?v=gyGMaNUaeic"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "title": "Train error vs Test error (Recap)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "aVAs2YwiDoA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=aVAs2YwiDoA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=aVAs2YwiDoA",
+              "href": "https://www.youtube.com/watch?v=aVAs2YwiDoA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "title": "True error and Model complexity",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "y_tQBokE94s"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=y_tQBokE94s",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=y_tQBokE94s",
+              "href": "https://www.youtube.com/watch?v=y_tQBokE94s"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "title": "L2 regularization",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "lg4OLAjxRcQ"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=lg4OLAjxRcQ",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=lg4OLAjxRcQ",
+              "href": "https://www.youtube.com/watch?v=lg4OLAjxRcQ"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "title": "Dataset augmentation",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "KHMHOieuJuw"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=KHMHOieuJuw",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=KHMHOieuJuw",
+              "href": "https://www.youtube.com/watch?v=KHMHOieuJuw"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "title": "Parameter sharing and tying",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "EZ4X5rFzLFE"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=EZ4X5rFzLFE",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=EZ4X5rFzLFE",
+              "href": "https://www.youtube.com/watch?v=EZ4X5rFzLFE"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "title": "Adding Noise to the inputs",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "agGUR06jM_g"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=agGUR06jM_g",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=agGUR06jM_g",
+              "href": "https://www.youtube.com/watch?v=agGUR06jM_g"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "title": "Adding Noise to the outputs",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "TtU9GhLeOk4"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=TtU9GhLeOk4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=TtU9GhLeOk4",
+              "href": "https://www.youtube.com/watch?v=TtU9GhLeOk4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "66",
+          "title": "Early stopping",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "zm5cqvfKO-o"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=zm5cqvfKO-o",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=zm5cqvfKO-o",
+              "href": "https://www.youtube.com/watch?v=zm5cqvfKO-o"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "title": "Ensemble Methods",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "qlNDzNjR3eA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=qlNDzNjR3eA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=qlNDzNjR3eA",
+              "href": "https://www.youtube.com/watch?v=qlNDzNjR3eA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        },
+        {
+          "id": "68",
+          "title": "Dropout",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "qfsacbIe9AI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=qfsacbIe9AI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=qfsacbIe9AI",
+              "href": "https://www.youtube.com/watch?v=qfsacbIe9AI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 7"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Regularization: Bias Variance Tradeoff, L2 regularization, Early stopping, Dataset augmentation, Parameter sharing and tying, Injecting noise at input, Ensemble methods, Dropout"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Week 8",
+      "lessons": [
+        {
+          "id": "69",
+          "title": "A quick recap of training deep neural networks",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "P2x8qi5xT-8"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=P2x8qi5xT-8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=P2x8qi5xT-8",
+              "href": "https://www.youtube.com/watch?v=P2x8qi5xT-8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 8"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Batch Normalization"
+            }
+          ]
+        },
+        {
+          "id": "70",
+          "title": "Unsupervised pre-training",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "_GRvjpJVr5A"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=_GRvjpJVr5A",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=_GRvjpJVr5A",
+              "href": "https://www.youtube.com/watch?v=_GRvjpJVr5A"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 8"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Batch Normalization"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "title": "Better activation functions",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "HxKaLyyGq50"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=HxKaLyyGq50",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=HxKaLyyGq50",
+              "href": "https://www.youtube.com/watch?v=HxKaLyyGq50"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 8"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Batch Normalization"
+            }
+          ]
+        },
+        {
+          "id": "72",
+          "title": "Better initialization strategies",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "1pgahpCZeF0"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=1pgahpCZeF0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=1pgahpCZeF0",
+              "href": "https://www.youtube.com/watch?v=1pgahpCZeF0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 8"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Batch Normalization"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "title": "Batch Normalization",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "1XMjfhEFbFA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=1XMjfhEFbFA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=1XMjfhEFbFA",
+              "href": "https://www.youtube.com/watch?v=1XMjfhEFbFA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 8"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Greedy Layerwise Pre-training, Better activation functions, Better weight initialization methods, Batch Normalization"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Week 9",
+      "lessons": [
+        {
+          "id": "74",
+          "title": "One-hot representations of words",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "M2T36PlRv1U"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=M2T36PlRv1U",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=M2T36PlRv1U",
+              "href": "https://www.youtube.com/watch?v=M2T36PlRv1U"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "title": "Distributed Representations of words",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "74clhgHhR2M"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=74clhgHhR2M",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=74clhgHhR2M",
+              "href": "https://www.youtube.com/watch?v=74clhgHhR2M"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "76",
+          "title": "SVD for learning word representations",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "SSpSk1Io52w"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=SSpSk1Io52w",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=SSpSk1Io52w",
+              "href": "https://www.youtube.com/watch?v=SSpSk1Io52w"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "title": "SVD for learning word representations (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "05L1tSvzWHs"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=05L1tSvzWHs",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=05L1tSvzWHs",
+              "href": "https://www.youtube.com/watch?v=05L1tSvzWHs"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "78",
+          "title": "Continuous bag of words model",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "yBmtXtVya9A"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=yBmtXtVya9A",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=yBmtXtVya9A",
+              "href": "https://www.youtube.com/watch?v=yBmtXtVya9A"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "title": "Skip-gram model",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "XO2GHDm-ZoI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=XO2GHDm-ZoI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=XO2GHDm-ZoI",
+              "href": "https://www.youtube.com/watch?v=XO2GHDm-ZoI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "80",
+          "title": "Skip-gram model (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "3F6KInYCJxI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=3F6KInYCJxI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=3F6KInYCJxI",
+              "href": "https://www.youtube.com/watch?v=3F6KInYCJxI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "title": "Contrastive estimation",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "XZUGn36eAgA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=XZUGn36eAgA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=XZUGn36eAgA",
+              "href": "https://www.youtube.com/watch?v=XZUGn36eAgA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "82",
+          "title": "Hierarchical softmax",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "ioe1eeEWU0I"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=ioe1eeEWU0I",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=ioe1eeEWU0I",
+              "href": "https://www.youtube.com/watch?v=ioe1eeEWU0I"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "title": "GloVe representations",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "zA0U8C_q04M"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=zA0U8C_q04M",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=zA0U8C_q04M",
+              "href": "https://www.youtube.com/watch?v=zA0U8C_q04M"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "84",
+          "title": "Evaluating word representations",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "b0M0AzjpPqc"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=b0M0AzjpPqc",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=b0M0AzjpPqc",
+              "href": "https://www.youtube.com/watch?v=b0M0AzjpPqc"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "title": "Relation between SVD and Word2Vec",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "MBcnPueElDU"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=MBcnPueElDU",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=MBcnPueElDU",
+              "href": "https://www.youtube.com/watch?v=MBcnPueElDU"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 9"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Learning Vectorial Representations Of Words"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "title": "week 10",
+      "lessons": [
+        {
+          "id": "86",
+          "title": "The convolution operation",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "yw8xwS15Pf4"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=yw8xwS15Pf4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=yw8xwS15Pf4",
+              "href": "https://www.youtube.com/watch?v=yw8xwS15Pf4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "title": "Relation between input size, output size and filter size",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "7eiYBFladus"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=7eiYBFladus",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=7eiYBFladus",
+              "href": "https://www.youtube.com/watch?v=7eiYBFladus"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "88",
+          "title": "Convolutional Neural Networks",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "PmZp5VtMwLE"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=PmZp5VtMwLE",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=PmZp5VtMwLE",
+              "href": "https://www.youtube.com/watch?v=PmZp5VtMwLE"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "title": "Convolutional Neural Networks (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "9eZN8U-68eI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=9eZN8U-68eI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=9eZN8U-68eI",
+              "href": "https://www.youtube.com/watch?v=9eZN8U-68eI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "90",
+          "title": "CNNs (success stories on ImageNet)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "53ysOFHCaqI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=53ysOFHCaqI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=53ysOFHCaqI",
+              "href": "https://www.youtube.com/watch?v=53ysOFHCaqI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "title": "CNNs (success stories on ImageNet) (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "mHhhXlEB32c"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=mHhhXlEB32c",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=mHhhXlEB32c",
+              "href": "https://www.youtube.com/watch?v=mHhhXlEB32c"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "92",
+          "title": "Image Classification continued (GoogLeNet and ResNet)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "UukbB6q6CTo"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=UukbB6q6CTo",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=UukbB6q6CTo",
+              "href": "https://www.youtube.com/watch?v=UukbB6q6CTo"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "title": "Visualizing patches which maximally activate a neuron",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "nBxy_vzmO_M"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=nBxy_vzmO_M",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=nBxy_vzmO_M",
+              "href": "https://www.youtube.com/watch?v=nBxy_vzmO_M"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "94",
+          "title": "Visualizing filters of a CNN",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "XE8O5p5mceA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=XE8O5p5mceA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=XE8O5p5mceA",
+              "href": "https://www.youtube.com/watch?v=XE8O5p5mceA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "title": "Occlusion experiments",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "DaLZRH6D7wo"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=DaLZRH6D7wo",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=DaLZRH6D7wo",
+              "href": "https://www.youtube.com/watch?v=DaLZRH6D7wo"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "96",
+          "title": "Finding influence of input pixels using backpropagation",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "SPJnlFtw6h0"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=SPJnlFtw6h0",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=SPJnlFtw6h0",
+              "href": "https://www.youtube.com/watch?v=SPJnlFtw6h0"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "title": "Guided Backpropagation",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "rcXOEzAuvu4"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=rcXOEzAuvu4",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=rcXOEzAuvu4",
+              "href": "https://www.youtube.com/watch?v=rcXOEzAuvu4"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "98",
+          "title": "Optimization over images",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "a4k8YorzUdI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=a4k8YorzUdI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=a4k8YorzUdI",
+              "href": "https://www.youtube.com/watch?v=a4k8YorzUdI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "title": "Create images from embeddings",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "orTNf_R5odY"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=orTNf_R5odY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=orTNf_R5odY",
+              "href": "https://www.youtube.com/watch?v=orTNf_R5odY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "100",
+          "title": "Deep Dream",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "YHAIrwRVvWg"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=YHAIrwRVvWg",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=YHAIrwRVvWg",
+              "href": "https://www.youtube.com/watch?v=YHAIrwRVvWg"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "title": "Deep Art",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "gctnJbUaW08"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=gctnJbUaW08",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=gctnJbUaW08",
+              "href": "https://www.youtube.com/watch?v=gctnJbUaW08"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        },
+        {
+          "id": "102",
+          "title": "Fooling Deep Convolutional Neural Networks",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "zgfcRJYA_kk"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=zgfcRJYA_kk",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=zgfcRJYA_kk",
+              "href": "https://www.youtube.com/watch?v=zgfcRJYA_kk"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "week 10"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Convolutional Neural Networks, LeNet, AlexNet, ZF-Net, VGGNet, GoogLeNet, ResNet, Visualizing Convolutional Neural Networks, Guided Backpropagation, Deep Dream, Deep Art, Fooling Convolutional Neural Networks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Week 11",
+      "lessons": [
+        {
+          "id": "103",
+          "title": "Sequence Learning Problems",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "_BBTTS9gx7Q"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=_BBTTS9gx7Q",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=_BBTTS9gx7Q",
+              "href": "https://www.youtube.com/watch?v=_BBTTS9gx7Q"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "104",
+          "title": "Recurrent Neural Networks",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "ym5qG-3kJ10"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=ym5qG-3kJ10",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=ym5qG-3kJ10",
+              "href": "https://www.youtube.com/watch?v=ym5qG-3kJ10"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "title": "Backpropagation through time",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "Xeb6OjnVn8g"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=Xeb6OjnVn8g",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=Xeb6OjnVn8g",
+              "href": "https://www.youtube.com/watch?v=Xeb6OjnVn8g"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "106",
+          "title": "The problem of Exploding and Vanishing Gradients",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "EB1SoyivHFU"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=EB1SoyivHFU",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=EB1SoyivHFU",
+              "href": "https://www.youtube.com/watch?v=EB1SoyivHFU"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "title": "Some Gory Details",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "gZ65vyTNipM"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=gZ65vyTNipM",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=gZ65vyTNipM",
+              "href": "https://www.youtube.com/watch?v=gZ65vyTNipM"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "108",
+          "title": "Selective Read, Selective Write, Selective Forget - The Whiteboard Analogy",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "pI-3TreYU18"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=pI-3TreYU18",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=pI-3TreYU18",
+              "href": "https://www.youtube.com/watch?v=pI-3TreYU18"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "title": "Long Short Term Memory(LSTM) and Gated Recurrent Units(GRUs)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "9TFnjJkfqmA"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=9TFnjJkfqmA",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=9TFnjJkfqmA",
+              "href": "https://www.youtube.com/watch?v=9TFnjJkfqmA"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "110",
+          "title": "How LSTMs avoid the problem of vanishing gradients",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "PMv8C-Ws1b8"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=PMv8C-Ws1b8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=PMv8C-Ws1b8",
+              "href": "https://www.youtube.com/watch?v=PMv8C-Ws1b8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "title": "How LSTMs avoid the problem of vanishing gradients (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "dKKPtG-qeaI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=dKKPtG-qeaI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=dKKPtG-qeaI",
+              "href": "https://www.youtube.com/watch?v=dKKPtG-qeaI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 11"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Recurrent Neural Networks, Backpropagation through time (BPTT), Vanishing and Exploding Gradients, Truncated BPTT, GRU, LSTMs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Week 12",
+      "lessons": [
+        {
+          "id": "112",
+          "title": "Introduction to Encoder Decoder Models",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "7Np_5Q-P8eo"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=7Np_5Q-P8eo",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=7Np_5Q-P8eo",
+              "href": "https://www.youtube.com/watch?v=7Np_5Q-P8eo"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "title": "Applications of Encoder Decoder models",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "dC_d3iVw6sc"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=dC_d3iVw6sc",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=dC_d3iVw6sc",
+              "href": "https://www.youtube.com/watch?v=dC_d3iVw6sc"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        },
+        {
+          "id": "114",
+          "title": "Attention Mechanism",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "yInilk6x-OY"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=yInilk6x-OY",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=yInilk6x-OY",
+              "href": "https://www.youtube.com/watch?v=yInilk6x-OY"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "title": "Attention Mechanism (Contd.)",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "zqbgsiKBSRI"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=zqbgsiKBSRI",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=zqbgsiKBSRI",
+              "href": "https://www.youtube.com/watch?v=zqbgsiKBSRI"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "title": "Attention over images",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "hvhqHhrP_AU"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=hvhqHhrP_AU",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=hvhqHhrP_AU",
+              "href": "https://www.youtube.com/watch?v=hvhqHhrP_AU"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "title": "Hierarchical Attention",
+          "kind": "video",
+          "graded": false,
+          "dueAt": null,
+          "video": {
+            "youtubeId": "mvLBBG7Kvn8"
+          },
+          "sourceUrl": "https://www.youtube.com/watch?v=mvLBBG7Kvn8",
+          "authors": "Prof. Sudarshan Iyengar",
+          "details": [
+            {
+              "label": "Original Resource",
+              "value": "https://www.youtube.com/watch?v=mvLBBG7Kvn8",
+              "href": "https://www.youtube.com/watch?v=mvLBBG7Kvn8"
+            },
+            {
+              "label": "NPTEL Course Page",
+              "value": "https://nptel.ac.in/courses/106106184",
+              "href": "https://nptel.ac.in/courses/106106184"
+            },
+            {
+              "label": "Module / Week",
+              "value": "Week 12"
+            },
+            {
+              "label": "Instructor(s)",
+              "value": "Prof. Sudarshan Iyengar"
+            },
+            {
+              "label": "Institute",
+              "value": "IIT Ropar"
+            },
+            {
+              "label": "Week Syllabus Topics",
+              "value": "Encoder Decoder Models, Attention Mechanism, Attention over images"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "details": [
+    {
+      "label": "Original Resource",
+      "value": "https://nptel.ac.in/courses/106106184",
+      "href": "https://nptel.ac.in/courses/106106184"
+    },
+    {
+      "label": "Course ID",
+      "value": "106106184"
+    },
+    {
+      "label": "NOC Course Code",
+      "value": "noc26-cs138"
+    },
+    {
+      "label": "Instructor(s)",
+      "value": "Prof. Sudarshan Iyengar"
+    },
+    {
+      "label": "Institute",
+      "value": "IIT Ropar"
+    },
+    {
+      "label": "Coordinating Institute",
+      "value": "IIT Madras"
+    },
+    {
+      "label": "Content Format",
+      "value": "Video"
+    },
+    {
+      "label": "Duration",
+      "value": "12 weeks"
+    },
+    {
+      "label": "Credits",
+      "value": "4"
+    },
+    {
+      "label": "Level",
+      "value": "Undergraduate/Postgraduate"
+    },
+    {
+      "label": "Type",
+      "value": "Elective"
+    },
+    {
+      "label": "Language",
+      "value": "English"
+    },
+    {
+      "label": "Intended Audience",
+      "value": "Any Interested Learners"
+    },
+    {
+      "label": "Prerequisites",
+      "value": "Working knowledge of Linear Algebra, Probability Theory. It would be beneficial if the participants have done a course on Machine Learning."
+    },
+    {
+      "label": "Category",
+      "value": "COMP_SCI_ENGG, Domain_3, Domain_15, Domain_49"
+    },
+    {
+      "label": "Term / Duration",
+      "value": "Jul-Oct 2026"
+    },
+    {
+      "label": "Enrollment Window",
+      "value": "2026-05-22 to 2026-07-27"
+    },
+    {
+      "label": "Exam Registration",
+      "value": "2026-06-20 to 2026-08-14"
+    },
+    {
+      "label": "Exam Date",
+      "value": "2026-10-17"
+    },
+    {
+      "label": "Syllabus Document",
+      "value": "https://archive.nptel.ac.in/content/syllabus_pdf/106106184.pdf",
+      "href": "https://archive.nptel.ac.in/content/syllabus_pdf/106106184.pdf"
+    },
+    {
+      "label": "Intro Video",
+      "value": "https://www.youtube.com/watch?v=aPfkYu_qiF4",
+      "href": "https://www.youtube.com/watch?v=aPfkYu_qiF4"
+    },
+    {
+      "label": "Learners Enrolled",
+      "value": "1,71,663"
+    },
+    {
+      "label": "Exam Registered",
+      "value": "35,579"
+    },
+    {
+      "label": "Certified Learners",
+      "value": "22,479"
+    },
+    {
+      "label": "About Course",
+      "value": "Deep Learning has received a lot of attention over the past few years and has been employed successfully by companies like Google, Microsoft, IBM, Facebook, Twitter etc. to solve a wide range of problems in Computer Vision and Natural Language Processing. In this course we will learn about the building blocks used in these Deep Learning based solutions. Specifically, we will learn about feedforward neural networks, convolutional neural networks, recurrent neural networks and attention mechanisms. We will also look at various optimization algorithms such as Gradient Descent, Nesterov Accelerated Gradient Descent, Adam, AdaGrad and RMSProp which are used for training such deep neural networks. At the end of this course students would have knowledge of deep architectures used for solving various Vision and NLP tasks"
+    },
+    {
+      "label": "Instructor Bio",
+      "value": "Prof. Sudarshan Iyengar\n IIT Ropar \n Prof. Sudarshan Iyengar, Associate Professor at the CSE at IIT Ropar has a Ph.D. from the \nIndian Institute of Science (IISc). An exemplary teacher who has delivered over 350 \npopular science talks to students of high school and advanced graduate programmes. Dr. \nSudarshan has offered more than 100 hours of online lectures with novel teaching \nmethodologies that have reached lakhs of Students. His research interests include Data \nSciences, Social Computing, Social Networks, Collective Intelligence, Crowdsourced \nTechnologies and Secure Computation"
+    },
+    {
+      "label": "Books & References",
+      "value": "Deep Learning, An MIT Press book, Ian Goodfellow and Yoshua Bengio and Aaron Courville\n http://www.deeplearningbook.org"
+    }
+  ],
+  "authors": "Prof. Sudarshan Iyengar",
+  "sourceUrl": "https://nptel.ac.in/courses/106106184"
+}

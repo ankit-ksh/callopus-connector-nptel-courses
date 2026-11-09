@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://nptel.ac.in/courses/106106184",
+    "method": "GET",
+    "headers": {},
+    "body": null
+  },
+  {
+    "url": "https://nptel.ac.in/api/subject-details/106106184",
+    "method": "GET",
+    "headers": {},
+    "body": null
+  },
+  {
+    "url": "https://nptel.ac.in/api/stats/106106184",
+    "method": "GET",
+    "headers": {},
+    "body": null
+  }
+]

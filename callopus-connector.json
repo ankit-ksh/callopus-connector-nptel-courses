@@ -1,0 +1,21 @@
+{
+  "protocol": 2,
+  "connectors": [
+    {
+      "id": "nptel-courses",
+      "label": "NPTEL Courses",
+      "entry": "dist/nptel-courses.js",
+      "auth": { "kind": "none" },
+      "network": ["https://nptel.ac.in"],
+      "addFlow": [{ "kind": "catalog" }],
+      "sourceUrl": "https://nptel.ac.in",
+      "displayCode": { "pattern": "^nptelcourses_", "replacement": "" },
+      "platformDetails": [
+        { "label": "Platform", "value": "NPTEL (National Programme on Technology Enhanced Learning)" },
+        { "label": "Initiative By", "value": "IITs & IISc (funded by MoE, Govt. of India)" },
+        { "label": "License", "value": "Creative Commons BY-NC-SA", "href": "https://creativecommons.org/licenses/by-nc-sa/4.0/" },
+        { "label": "Website", "value": "https://nptel.ac.in", "href": "https://nptel.ac.in" }
+      ]
+    }
+  ]
+}
